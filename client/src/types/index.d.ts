@@ -42,6 +42,7 @@ declare global {
     CloseToTransit = "CloseToTransit",
     GreatView = "GreatView",
     QuietNeighborhood = "QuietNeighborhood",
+
   }
 
   enum PropertyTypeEnum {
